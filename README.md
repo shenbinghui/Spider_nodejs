@@ -1,0 +1,2 @@
+# Spider_nodejs
+使用nodejs写一个抓取美食网站的一些图片资源的爬虫
